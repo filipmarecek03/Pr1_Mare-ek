@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\bin\Debug\net8.0\ahoj  světe.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\bin\Debug\net8.0\ahoj  světe.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\bin\Debug\net8.0\ahoj  světe.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\bin\Debug\net8.0\ahoj  světe.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\bin\Debug\net8.0\ahoj  světe.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\refint\ahoj  světe.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ahoj  světe.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\ahoj  světe\obj\Debug\net8.0\ref\ahoj  světe.dll
