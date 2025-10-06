@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prevod_casu/1.0.0": {
+        "runtime": {
+          "prevod_casu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prevod_casu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

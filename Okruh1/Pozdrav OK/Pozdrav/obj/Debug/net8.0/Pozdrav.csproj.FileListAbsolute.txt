@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\bin\Debug\net8.0\Pozdrav.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\refint\Pozdrav.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\Pozdrav.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\Pozdrav\Pozdrav\obj\Debug\net8.0\ref\Pozdrav.dll

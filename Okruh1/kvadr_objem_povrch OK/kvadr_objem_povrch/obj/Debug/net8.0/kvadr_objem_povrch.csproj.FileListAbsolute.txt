@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\bin\Debug\net8.0\kvadr_objem_povrch.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\refint\kvadr_objem_povrch.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\kvadr_objem_povrch.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kvadr_objem_povrch\kvadr_objem_povrch\obj\Debug\net8.0\ref\kvadr_objem_povrch.dll

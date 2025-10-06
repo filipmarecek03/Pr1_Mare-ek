@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\bin\Debug\net8.0\pythagorova_veta.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\refint\pythagorova_veta.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\pythagorova_veta.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\pythagorova_veta\pythagorova_veta\obj\Debug\net8.0\ref\pythagorova_veta.dll

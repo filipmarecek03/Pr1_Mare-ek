@@ -1,0 +1,30 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\bin\Debug\net8.0\domaci_hoste.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\refint\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\domaci_hoste.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste\domaci_hoste\obj\Debug\net8.0\ref\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\bin\Debug\net8.0\domaci_hoste.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\bin\Debug\net8.0\domaci_hoste.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\bin\Debug\net8.0\domaci_hoste.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\bin\Debug\net8.0\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\bin\Debug\net8.0\domaci_hoste.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\refint\domaci_hoste.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\domaci_hoste.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\domaci_hoste OK\domaci_hoste\obj\Debug\net8.0\ref\domaci_hoste.dll

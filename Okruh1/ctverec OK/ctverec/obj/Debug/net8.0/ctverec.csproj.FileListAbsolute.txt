@@ -1,0 +1,30 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\bin\Debug\net8.0\ctverec.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\bin\Debug\net8.0\ctverec.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\bin\Debug\net8.0\ctverec.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\bin\Debug\net8.0\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\bin\Debug\net8.0\ctverec.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\refint\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ctverec.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec\ctverec\obj\Debug\net8.0\ref\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\bin\Debug\net8.0\ctverec.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\bin\Debug\net8.0\ctverec.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\bin\Debug\net8.0\ctverec.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\bin\Debug\net8.0\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\bin\Debug\net8.0\ctverec.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\refint\ctverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ctverec.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\ctverec OK\ctverec\obj\Debug\net8.0\ref\ctverec.dll

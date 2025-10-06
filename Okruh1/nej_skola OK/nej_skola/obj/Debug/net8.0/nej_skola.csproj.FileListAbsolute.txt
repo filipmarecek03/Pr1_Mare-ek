@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\bin\Debug\net8.0\nej_skola.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\refint\nej_skola.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\nej_skola.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\nej_skola\nej_skola\obj\Debug\net8.0\ref\nej_skola.dll

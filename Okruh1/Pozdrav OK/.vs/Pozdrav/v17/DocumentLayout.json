@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\Okruh1\\Pozdrav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CCE2AD-CF7F-4053-8A6C-D2ECBA9DACF6}|Pozdrav\\Pozdrav.csproj|c:\\users\\filip\\onedrive\\plocha\\delta\\programko\\1.a\\pr1_mare-ek\\okruh1\\pozdrav\\pozdrav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CCE2AD-CF7F-4053-8A6C-D2ECBA9DACF6}|Pozdrav\\Pozdrav.csproj|solutionrelative:pozdrav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\Okruh1\\Pozdrav\\Pozdrav\\Program.cs",
+              "RelativeDocumentMoniker": "Pozdrav\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\Okruh1\\Pozdrav\\Pozdrav\\Program.cs",
+              "RelativeToolTip": "Pozdrav\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:26:22.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

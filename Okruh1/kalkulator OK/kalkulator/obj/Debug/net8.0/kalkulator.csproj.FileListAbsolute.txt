@@ -1,0 +1,30 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\bin\Debug\net8.0\kalkulator.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\bin\Debug\net8.0\kalkulator.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\bin\Debug\net8.0\kalkulator.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\bin\Debug\net8.0\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\bin\Debug\net8.0\kalkulator.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\refint\kalkulator.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\kalkulator.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\kalkulator OK\kalkulator\obj\Debug\net8.0\ref\kalkulator.dll

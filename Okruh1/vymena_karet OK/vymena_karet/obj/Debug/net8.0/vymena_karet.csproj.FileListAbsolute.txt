@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\bin\Debug\net8.0\vymena_karet.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\refint\vymena_karet.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\vymena_karet.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!vymena_karet\vymena_karet\obj\Debug\net8.0\ref\vymena_karet.dll

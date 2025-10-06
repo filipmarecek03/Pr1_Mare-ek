@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\bin\Debug\net8.0\datove_typy.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\bin\Debug\net8.0\datove_typy.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\bin\Debug\net8.0\datove_typy.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\bin\Debug\net8.0\datove_typy.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\bin\Debug\net8.0\datove_typy.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\refint\datove_typy.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\datove_typy.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!datove_typy\datove_typy\obj\Debug\net8.0\ref\datove_typy.dll

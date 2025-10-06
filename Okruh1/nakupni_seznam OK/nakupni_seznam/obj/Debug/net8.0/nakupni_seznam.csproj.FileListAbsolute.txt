@@ -1,0 +1,44 @@
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.exe
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.deps.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\refint\nakupni_seznam.dll
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.pdb
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_24_25\1. rocnik\kody_cvicebnice\okruh1\nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\ref\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\refint\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!nakupni_seznam\nakupni_seznam\obj\Debug\net8.0\ref\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\bin\Debug\net8.0\nakupni_seznam.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\refint\nakupni_seznam.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\nakupni_seznam.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Okruh1\!!nakupni_seznam SKORO ZEPTAT SE!!\nakupni_seznam\obj\Debug\net8.0\ref\nakupni_seznam.dll

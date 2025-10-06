@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Začatky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0532c4079167539972f9370695dd5c70006c66b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Začatky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Začatky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

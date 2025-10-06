@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datove_typy", "datove_typy\datove_typy.csproj", "{1CA812D3-F419-4808-95DF-A135C895C719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA812D3-F419-4808-95DF-A135C895C719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA812D3-F419-4808-95DF-A135C895C719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA812D3-F419-4808-95DF-A135C895C719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA812D3-F419-4808-95DF-A135C895C719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2545DB92-4019-4576-B0C6-09AB5A44A1FB}
+	EndGlobalSection
+EndGlobal

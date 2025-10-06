@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\Okruh1\\kalkulator OK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D378CA4-932A-44A1-897F-5B1A631C4301}|kalkulator\\kalkulator.csproj|c:\\users\\filip\\onedrive\\plocha\\delta\\programko\\1.a\\pr1_mare-ek\\okruh1\\kalkulator ok\\kalkulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D378CA4-932A-44A1-897F-5B1A631C4301}|kalkulator\\kalkulator.csproj|solutionrelative:kalkulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\Okruh1\\kalkulator OK\\kalkulator\\Program.cs",
+              "RelativeDocumentMoniker": "kalkulator\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\Okruh1\\kalkulator OK\\kalkulator\\Program.cs",
+              "RelativeToolTip": "kalkulator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:15:01.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

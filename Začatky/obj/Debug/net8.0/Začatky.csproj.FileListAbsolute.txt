@@ -12,3 +12,4 @@ C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Začatky\obj\Debu
 C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Začatky\obj\Debug\net8.0\Začatky.pdb
 C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Začatky\obj\Debug\net8.0\Začatky.genruntimeconfig.cache
 C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Začatky\obj\Debug\net8.0\ref\Začatky.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\Začatky\obj\Debug\net8.0\Začatky.sourcelink.json
