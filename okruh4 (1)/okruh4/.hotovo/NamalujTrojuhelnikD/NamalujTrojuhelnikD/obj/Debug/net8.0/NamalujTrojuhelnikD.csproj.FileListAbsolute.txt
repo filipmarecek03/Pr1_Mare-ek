@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\bin\Debug\net8.0\NamalujTrojuhelnikD.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\bin\Debug\net8.0\NamalujTrojuhelnikD.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\bin\Debug\net8.0\NamalujTrojuhelnikD.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\bin\Debug\net8.0\NamalujTrojuhelnikD.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\bin\Debug\net8.0\NamalujTrojuhelnikD.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\refint\NamalujTrojuhelnikD.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\NamalujTrojuhelnikD.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujTrojuhelnikD\NamalujTrojuhelnikD\obj\Debug\net8.0\ref\NamalujTrojuhelnikD.dll

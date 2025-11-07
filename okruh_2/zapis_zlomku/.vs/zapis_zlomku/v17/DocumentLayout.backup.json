@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\zapis_zlomku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A52ED2-EA60-42FD-93B0-F187C39488C7}|zapis_zlomku\\zapis_zlomku.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\zapis_zlomku\\zapis_zlomku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6A52ED2-EA60-42FD-93B0-F187C39488C7}|zapis_zlomku\\zapis_zlomku.csproj|solutionrelative:zapis_zlomku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\1cfaa2e9-69a9-4e78-9f12-c0099d86ea02_Procviceni-Zapis-zlomku (1).zip.a02\\Procviceni-Zapis-zlomku\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\1cfaa2e9-69a9-4e78-9f12-c0099d86ea02_Procviceni-Zapis-zlomku (1).zip.a02\\Procviceni-Zapis-zlomku\\main.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\1cfaa2e9-69a9-4e78-9f12-c0099d86ea02_Procviceni-Zapis-zlomku (1).zip.a02\\Procviceni-Zapis-zlomku\\main.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\1cfaa2e9-69a9-4e78-9f12-c0099d86ea02_Procviceni-Zapis-zlomku (1).zip.a02\\Procviceni-Zapis-zlomku\\main.cs [Jen pro \u010Dten\u00ED]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\1cfaa2e9-69a9-4e78-9f12-c0099d86ea02_Procviceni-Zapis-zlomku (1).zip.a02\\Procviceni-Zapis-zlomku\\main.cs [Jen pro \u010Dten\u00ED]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:22:40.443Z",
+              "EditorCaption": " [Jen pro \u010Dten\u00ED]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\zapis_zlomku\\zapis_zlomku\\Program.cs",
+              "RelativeDocumentMoniker": "zapis_zlomku\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\zapis_zlomku\\zapis_zlomku\\Program.cs",
+              "RelativeToolTip": "zapis_zlomku\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:22:31.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

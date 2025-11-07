@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\delka_slova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC2742D-BDD4-42CD-9655-DC2FBA79DB77}|delka_slova\\delka_slova.csproj|c:\\users\\filip\\onedrive\\plocha\\delta\\programko\\1.a\\pr1_mare-ek\\okruh_2\\delka_slova\\delka_slova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC2742D-BDD4-42CD-9655-DC2FBA79DB77}|delka_slova\\delka_slova.csproj|solutionrelative:delka_slova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\delka_slova\\delka_slova\\Program.cs",
+              "RelativeDocumentMoniker": "delka_slova\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\delka_slova\\delka_slova\\Program.cs",
+              "RelativeToolTip": "delka_slova\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:15:54.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

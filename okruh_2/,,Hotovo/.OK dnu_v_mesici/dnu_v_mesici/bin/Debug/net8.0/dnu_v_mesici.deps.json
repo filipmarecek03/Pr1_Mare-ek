@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dnu_v_mesici/1.0.0": {
+        "runtime": {
+          "dnu_v_mesici.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnu_v_mesici/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

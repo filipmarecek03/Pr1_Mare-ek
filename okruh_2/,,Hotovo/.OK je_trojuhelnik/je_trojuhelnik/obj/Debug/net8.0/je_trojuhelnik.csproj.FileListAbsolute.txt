@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\bin\Debug\net8.0\je_trojuhelnik.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\bin\Debug\net8.0\je_trojuhelnik.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\bin\Debug\net8.0\je_trojuhelnik.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\bin\Debug\net8.0\je_trojuhelnik.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\bin\Debug\net8.0\je_trojuhelnik.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\refint\je_trojuhelnik.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\je_trojuhelnik.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_trojuhelnik\je_trojuhelnik\obj\Debug\net8.0\ref\je_trojuhelnik.dll

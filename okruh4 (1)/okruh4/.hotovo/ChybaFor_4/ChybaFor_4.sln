@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChybaFor_4", "ChybaFor_4\ChybaFor_4.csproj", "{43E44AF8-D401-4BBB-A8DC-0A2C7B6C38ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E44AF8-D401-4BBB-A8DC-0A2C7B6C38ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E44AF8-D401-4BBB-A8DC-0A2C7B6C38ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E44AF8-D401-4BBB-A8DC-0A2C7B6C38ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E44AF8-D401-4BBB-A8DC-0A2C7B6C38ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E96244A1-9815-46C4-8C2D-E358837E86A7}
+	EndGlobalSection
+EndGlobal

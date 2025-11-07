@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\studijni_poradce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC7FE2E-FD00-4F1B-A90D-951DB815A3CB}|studijni_poradce\\studijni_poradce.csproj|c:\\users\\filip\\onedrive\\plocha\\deltaahh\\programko\\1.a\\pr1_mare-ek\\okruh_2\\studijni_poradce\\studijni_poradce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC7FE2E-FD00-4F1B-A90D-951DB815A3CB}|studijni_poradce\\studijni_poradce.csproj|solutionrelative:studijni_poradce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\studijni_poradce\\studijni_poradce\\Program.cs",
+              "RelativeDocumentMoniker": "studijni_poradce\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\studijni_poradce\\studijni_poradce\\Program.cs",
+              "RelativeToolTip": "studijni_poradce\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:16:25.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

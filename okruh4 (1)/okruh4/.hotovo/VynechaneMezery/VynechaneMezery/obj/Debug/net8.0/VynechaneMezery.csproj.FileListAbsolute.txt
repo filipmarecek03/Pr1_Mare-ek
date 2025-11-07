@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\bin\Debug\net8.0\VynechaneMezery.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\refint\VynechaneMezery.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\VynechaneMezery.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\VynechaneMezery\VynechaneMezery\obj\Debug\net8.0\ref\VynechaneMezery.dll

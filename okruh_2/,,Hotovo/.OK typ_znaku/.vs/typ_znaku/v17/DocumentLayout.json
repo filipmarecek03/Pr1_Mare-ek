@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\typ_znaku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B815C0A-3D92-446C-9673-063BCFC41A9C}|typ_znaku\\typ_znaku.csproj|c:\\users\\filip\\onedrive\\plocha\\delta\\programko\\1.a\\pr1_mare-ek\\okruh_2\\typ_znaku\\typ_znaku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B815C0A-3D92-446C-9673-063BCFC41A9C}|typ_znaku\\typ_znaku.csproj|solutionrelative:typ_znaku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\cbc56e89-c7fd-4f65-9a69-0c3d32b05ab7_Procviceni-Typ-znaku (1).zip.ab7\\Procviceni-Typ-znaku\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\typ_znaku\\typ_znaku\\Program.cs",
+              "RelativeDocumentMoniker": "typ_znaku\\Program.cs",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Plocha\\DELTA\\Programko\\1.A\\Pr1_Mare-ek\\okruh_2\\typ_znaku\\typ_znaku\\Program.cs",
+              "RelativeToolTip": "typ_znaku\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:43:19.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\cbc56e89-c7fd-4f65-9a69-0c3d32b05ab7_Procviceni-Typ-znaku (1).zip.ab7\\Procviceni-Typ-znaku\\main.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\cbc56e89-c7fd-4f65-9a69-0c3d32b05ab7_Procviceni-Typ-znaku (1).zip.ab7\\Procviceni-Typ-znaku\\main.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\cbc56e89-c7fd-4f65-9a69-0c3d32b05ab7_Procviceni-Typ-znaku (1).zip.ab7\\Procviceni-Typ-znaku\\main.cs [Jen pro \u010Dten\u00ED]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\admin\\AppData\\Local\\Temp\\cbc56e89-c7fd-4f65-9a69-0c3d32b05ab7_Procviceni-Typ-znaku (1).zip.ab7\\Procviceni-Typ-znaku\\main.cs [Jen pro \u010Dten\u00ED]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:21:25.649Z",
+              "EditorCaption": " [Jen pro \u010Dten\u00ED]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

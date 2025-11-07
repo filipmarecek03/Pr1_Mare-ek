@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\bin\Debug\net8.0\KazdyDruhyZnak.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\refint\KazdyDruhyZnak.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\KazdyDruhyZnak.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KazdyDruhyZnak\KazdyDruhyZnak\obj\Debug\net8.0\ref\KazdyDruhyZnak.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\bin\Debug\net8.0\NamalujCtverec.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\refint\NamalujCtverec.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\NamalujCtverec.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujCtverec\NamalujCtverec\obj\Debug\net8.0\ref\NamalujCtverec.dll

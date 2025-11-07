@@ -1,0 +1,30 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\refint\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\den_tydne\den_tydne\obj\Debug\net8.0\ref\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\bin\Debug\net8.0\den_tydne.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\refint\den_tydne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\den_tydne.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK den_tydne\den_tydne\obj\Debug\net8.0\ref\den_tydne.dll

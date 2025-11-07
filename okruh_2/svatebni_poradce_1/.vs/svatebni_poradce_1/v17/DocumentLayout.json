@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\svatebni_poradce_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C79D7-46A4-401C-B84B-FA5E7733F9B9}|svatebni_poradce_1\\svatebni_poradce_1.csproj|c:\\users\\admin\\desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\svatebni_poradce_1\\svatebni_poradce_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C79D7-46A4-401C-B84B-FA5E7733F9B9}|svatebni_poradce_1\\svatebni_poradce_1.csproj|solutionrelative:svatebni_poradce_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\svatebni_poradce_1\\svatebni_poradce_1\\Program.cs",
+              "RelativeDocumentMoniker": "svatebni_poradce_1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\svatebni_poradce_1\\svatebni_poradce_1\\Program.cs",
+              "RelativeToolTip": "svatebni_poradce_1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T09:18:09.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\bin\Debug\net8.0\vyssi_cislo.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\refint\vyssi_cislo.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\vyssi_cislo.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\vyssi_cislo\vyssi_cislo\obj\Debug\net8.0\ref\vyssi_cislo.dll

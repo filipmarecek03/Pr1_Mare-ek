@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\bin\Debug\net8.0\studijni_poradce.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\bin\Debug\net8.0\studijni_poradce.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\bin\Debug\net8.0\studijni_poradce.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\bin\Debug\net8.0\studijni_poradce.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\bin\Debug\net8.0\studijni_poradce.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\refint\studijni_poradce.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\studijni_poradce.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\studijni_poradce\studijni_poradce\obj\Debug\net8.0\ref\studijni_poradce.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\bin\Debug\net8.0\Trjuhelniktyp_q.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\bin\Debug\net8.0\Trjuhelniktyp_q.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\bin\Debug\net8.0\Trjuhelniktyp_q.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\bin\Debug\net8.0\Trjuhelniktyp_q.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\bin\Debug\net8.0\Trjuhelniktyp_q.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\refint\Trjuhelniktyp_q.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\Trjuhelniktyp_q.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Trjuhelniktyp_q\Trjuhelniktyp_q\obj\Debug\net8.0\ref\Trjuhelniktyp_q.dll

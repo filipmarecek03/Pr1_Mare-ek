@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\bin\Debug\net8.0\ChybaFor_5.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\bin\Debug\net8.0\ChybaFor_5.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\bin\Debug\net8.0\ChybaFor_5.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\bin\Debug\net8.0\ChybaFor_5.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\bin\Debug\net8.0\ChybaFor_5.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\refint\ChybaFor_5.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ChybaFor_5.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\ChybaFor_5\ChybaFor_5\obj\Debug\net8.0\ref\ChybaFor_5.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\bin\Debug\net8.0\kladne_zaporne.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\refint\kladne_zaporne.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\kladne_zaporne.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kladne_zaporne\kladne_zaporne\obj\Debug\net8.0\ref\kladne_zaporne.dll

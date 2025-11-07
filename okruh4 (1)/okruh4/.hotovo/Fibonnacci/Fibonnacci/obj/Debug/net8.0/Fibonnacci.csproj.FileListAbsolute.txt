@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\bin\Debug\net8.0\Fibonnacci.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\refint\Fibonnacci.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\Fibonnacci.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\Fibonnacci\Fibonnacci\obj\Debug\net8.0\ref\Fibonnacci.dll

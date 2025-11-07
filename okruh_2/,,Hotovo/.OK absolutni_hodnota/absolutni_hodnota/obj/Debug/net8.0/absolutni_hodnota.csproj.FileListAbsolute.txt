@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\bin\Debug\net8.0\absolutni_hodnota.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\refint\absolutni_hodnota.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\absolutni_hodnota.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\absolutni_hodnota\absolutni_hodnota\obj\Debug\net8.0\ref\absolutni_hodnota.dll

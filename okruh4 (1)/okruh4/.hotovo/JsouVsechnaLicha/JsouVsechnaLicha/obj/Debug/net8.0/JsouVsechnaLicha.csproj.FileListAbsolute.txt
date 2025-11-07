@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\bin\Debug\net8.0\JsouVsechnaLicha.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\bin\Debug\net8.0\JsouVsechnaLicha.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\bin\Debug\net8.0\JsouVsechnaLicha.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\bin\Debug\net8.0\JsouVsechnaLicha.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\bin\Debug\net8.0\JsouVsechnaLicha.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\refint\JsouVsechnaLicha.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\JsouVsechnaLicha.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JsouVsechnaLicha\JsouVsechnaLicha\obj\Debug\net8.0\ref\JsouVsechnaLicha.dll

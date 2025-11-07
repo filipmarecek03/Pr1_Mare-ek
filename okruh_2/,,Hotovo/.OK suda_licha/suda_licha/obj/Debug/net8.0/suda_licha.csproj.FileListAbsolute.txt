@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\bin\Debug\net8.0\suda_licha.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\refint\suda_licha.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\suda_licha.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\suda_licha\suda_licha\obj\Debug\net8.0\ref\suda_licha.dll

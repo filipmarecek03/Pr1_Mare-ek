@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\bin\Debug\net8.0\typ_znaku.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\bin\Debug\net8.0\typ_znaku.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\bin\Debug\net8.0\typ_znaku.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\bin\Debug\net8.0\typ_znaku.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\bin\Debug\net8.0\typ_znaku.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\refint\typ_znaku.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\typ_znaku.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\typ_znaku\typ_znaku\obj\Debug\net8.0\ref\typ_znaku.dll

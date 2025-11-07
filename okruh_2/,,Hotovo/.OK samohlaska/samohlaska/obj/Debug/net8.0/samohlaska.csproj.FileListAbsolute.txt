@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\bin\Debug\net8.0\samohlaska.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\refint\samohlaska.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\samohlaska.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\samohlaska\samohlaska\obj\Debug\net8.0\ref\samohlaska.dll

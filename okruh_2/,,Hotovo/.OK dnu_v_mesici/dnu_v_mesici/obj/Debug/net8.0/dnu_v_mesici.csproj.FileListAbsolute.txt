@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\bin\Debug\net8.0\dnu_v_mesici.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\refint\dnu_v_mesici.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\dnu_v_mesici.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\dnu_v_mesici\dnu_v_mesici\obj\Debug\net8.0\ref\dnu_v_mesici.dll

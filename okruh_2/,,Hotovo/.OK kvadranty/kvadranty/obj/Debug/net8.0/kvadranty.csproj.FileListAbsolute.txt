@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\bin\Debug\net8.0\kvadranty.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\bin\Debug\net8.0\kvadranty.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\bin\Debug\net8.0\kvadranty.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\bin\Debug\net8.0\kvadranty.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\bin\Debug\net8.0\kvadranty.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\refint\kvadranty.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\kvadranty.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\kvadranty\kvadranty\obj\Debug\net8.0\ref\kvadranty.dll

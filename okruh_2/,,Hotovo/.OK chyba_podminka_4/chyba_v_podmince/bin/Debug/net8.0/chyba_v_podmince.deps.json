@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "chyba_v_podmince/1.0.0": {
+        "runtime": {
+          "chyba_v_podmince.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chyba_v_podmince/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

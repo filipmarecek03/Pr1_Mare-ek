@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\bin\Debug\net8.0\chyba_v_podmince.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\bin\Debug\net8.0\chyba_v_podmince.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\bin\Debug\net8.0\chyba_v_podmince.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\bin\Debug\net8.0\chyba_v_podmince.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\bin\Debug\net8.0\chyba_v_podmince.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\refint\chyba_v_podmince.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\chyba_v_podmince.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\chyba_podminka_4\chyba_v_podmince\obj\Debug\net8.0\ref\chyba_v_podmince.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\bin\Debug\net8.0\iq_test.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\bin\Debug\net8.0\iq_test.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\bin\Debug\net8.0\iq_test.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\bin\Debug\net8.0\iq_test.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\bin\Debug\net8.0\iq_test.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\refint\iq_test.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\iq_test.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh_2\iq_test\iq_test\obj\Debug\net8.0\ref\iq_test.dll

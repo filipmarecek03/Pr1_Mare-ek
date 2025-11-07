@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\bin\Debug\net8.0\delka_slova.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\refint\delka_slova.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\delka_slova.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\delka_slova\delka_slova\obj\Debug\net8.0\ref\delka_slova.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\bin\Debug\net8.0\je_vikend.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\bin\Debug\net8.0\je_vikend.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\bin\Debug\net8.0\je_vikend.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\bin\Debug\net8.0\je_vikend.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\bin\Debug\net8.0\je_vikend.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\refint\je_vikend.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\je_vikend.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\je_vikend\je_vikend\obj\Debug\net8.0\ref\je_vikend.dll

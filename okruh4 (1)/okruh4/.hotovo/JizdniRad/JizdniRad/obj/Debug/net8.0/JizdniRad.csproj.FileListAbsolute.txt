@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\bin\Debug\net8.0\JizdniRad.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\refint\JizdniRad.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\JizdniRad.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\JizdniRad\JizdniRad\obj\Debug\net8.0\ref\JizdniRad.dll

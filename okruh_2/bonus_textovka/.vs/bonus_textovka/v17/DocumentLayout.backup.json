@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_24_25\\1. rocnik\\kody_cvicebnice\\okruh2\\bonus_textovka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\790c2417-5436-442b-b898-5f4448c28f99_Procviceni-Extra-bonus-Textovka.zip.f99\\Procviceni-Extra-bonus-Textovka\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\790c2417-5436-442b-b898-5f4448c28f99_Procviceni-Extra-bonus-Textovka.zip.f99\\Procviceni-Extra-bonus-Textovka\\main.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\790c2417-5436-442b-b898-5f4448c28f99_Procviceni-Extra-bonus-Textovka.zip.f99\\Procviceni-Extra-bonus-Textovka\\main.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\790c2417-5436-442b-b898-5f4448c28f99_Procviceni-Extra-bonus-Textovka.zip.f99\\Procviceni-Extra-bonus-Textovka\\main.cs [Jen pro \u010Dten\u00ED]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\790c2417-5436-442b-b898-5f4448c28f99_Procviceni-Extra-bonus-Textovka.zip.f99\\Procviceni-Extra-bonus-Textovka\\main.cs [Jen pro \u010Dten\u00ED]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T08:11:46.447Z",
+              "EditorCaption": " [Jen pro \u010Dten\u00ED]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

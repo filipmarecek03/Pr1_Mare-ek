@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\bin\Debug\net8.0\NamalujObdelnik.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\refint\NamalujObdelnik.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\NamalujObdelnik.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\NamalujObdelnik\NamalujObdelnik\obj\Debug\net8.0\ref\NamalujObdelnik.dll

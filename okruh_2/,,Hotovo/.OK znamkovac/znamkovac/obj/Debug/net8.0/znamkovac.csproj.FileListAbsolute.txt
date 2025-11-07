@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\bin\Debug\net8.0\znamkovac.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\refint\znamkovac.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\znamkovac.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\znamkovac\znamkovac\obj\Debug\net8.0\ref\znamkovac.dll

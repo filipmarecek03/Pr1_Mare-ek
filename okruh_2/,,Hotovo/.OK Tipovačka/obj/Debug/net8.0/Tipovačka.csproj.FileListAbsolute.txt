@@ -1,0 +1,30 @@
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\bin\Debug\net8.0\Tipovačka.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\bin\Debug\net8.0\Tipovačka.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\bin\Debug\net8.0\Tipovačka.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\bin\Debug\net8.0\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\bin\Debug\net8.0\Tipovačka.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\refint\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\Tipovačka.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\Tipovačka\obj\Debug\net8.0\ref\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\bin\Debug\net8.0\Tipovačka.exe
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\bin\Debug\net8.0\Tipovačka.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\bin\Debug\net8.0\Tipovačka.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\bin\Debug\net8.0\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\bin\Debug\net8.0\Tipovačka.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\refint\Tipovačka.dll
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.pdb
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\Tipovačka.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTA\Programko\1.A\Pr1_Mare-ek\okruh_2\,,Hotovo\.OK Tipovačka\obj\Debug\net8.0\ref\Tipovačka.dll

@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\bin\Debug\net8.0\KostkyvPyramide.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\bin\Debug\net8.0\KostkyvPyramide.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\bin\Debug\net8.0\KostkyvPyramide.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\bin\Debug\net8.0\KostkyvPyramide.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\bin\Debug\net8.0\KostkyvPyramide.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\refint\KostkyvPyramide.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\KostkyvPyramide.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\KostkyvPyramide\KostkyvPyramide\obj\Debug\net8.0\ref\KostkyvPyramide.dll

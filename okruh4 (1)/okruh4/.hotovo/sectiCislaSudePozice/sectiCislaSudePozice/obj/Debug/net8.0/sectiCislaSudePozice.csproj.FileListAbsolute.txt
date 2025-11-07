@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.exe
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.deps.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.runtimeconfig.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\bin\Debug\net8.0\sectiCislaSudePozice.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.sourcelink.json
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\refint\sectiCislaSudePozice.dll
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.pdb
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\sectiCislaSudePozice.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\okruh4 (1)\okruh4\sectiCislaSudePozice\sectiCislaSudePozice\obj\Debug\net8.0\ref\sectiCislaSudePozice.dll
