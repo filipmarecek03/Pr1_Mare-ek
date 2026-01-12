@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\bin\Debug\net10.0\Gemini metoda.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\bin\Debug\net10.0\Gemini metoda.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\bin\Debug\net10.0\Gemini metoda.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\bin\Debug\net10.0\Gemini metoda.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\bin\Debug\net10.0\Gemini metoda.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\refint\Gemini metoda.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\Gemini metoda.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Gemini metoda\Gemini metoda\obj\Debug\net10.0\ref\Gemini metoda.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Matice0,1/1.0.0": {
+        "runtime": {
+          "Matice0,1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matice0,1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

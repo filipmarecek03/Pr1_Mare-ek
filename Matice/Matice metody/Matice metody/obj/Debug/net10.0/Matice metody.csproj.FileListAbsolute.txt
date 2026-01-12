@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\bin\Debug\net10.0\Matice metody.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\bin\Debug\net10.0\Matice metody.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\bin\Debug\net10.0\Matice metody.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\bin\Debug\net10.0\Matice metody.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\bin\Debug\net10.0\Matice metody.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\refint\Matice metody.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\Matice metody.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Matice\Matice metody\Matice metody\obj\Debug\net10.0\ref\Matice metody.dll

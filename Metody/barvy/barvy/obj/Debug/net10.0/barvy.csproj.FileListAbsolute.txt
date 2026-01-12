@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\bin\Debug\net10.0\barvy.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\bin\Debug\net10.0\barvy.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\bin\Debug\net10.0\barvy.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\bin\Debug\net10.0\barvy.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\bin\Debug\net10.0\barvy.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\refint\barvy.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\barvy.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\barvy\barvy\obj\Debug\net10.0\ref\barvy.dll

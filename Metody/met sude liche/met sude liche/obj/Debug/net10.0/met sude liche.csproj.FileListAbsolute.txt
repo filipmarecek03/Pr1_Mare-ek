@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\bin\Debug\net10.0\met sude liche.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\bin\Debug\net10.0\met sude liche.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\bin\Debug\net10.0\met sude liche.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\bin\Debug\net10.0\met sude liche.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\bin\Debug\net10.0\met sude liche.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\refint\met sude liche.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\met sude liche.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\met sude liche\met sude liche\obj\Debug\net10.0\ref\met sude liche.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\bin\Debug\net10.0\Procviceni-Obvod-kruhu.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\bin\Debug\net10.0\Procviceni-Obvod-kruhu.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\bin\Debug\net10.0\Procviceni-Obvod-kruhu.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\bin\Debug\net10.0\Procviceni-Obvod-kruhu.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\bin\Debug\net10.0\Procviceni-Obvod-kruhu.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\refint\Procviceni-Obvod-kruhu.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\Procviceni-Obvod-kruhu.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Procviceni-Obvod-kruhu\Procviceni-Obvod-kruhu\obj\Debug\net10.0\ref\Procviceni-Obvod-kruhu.dll

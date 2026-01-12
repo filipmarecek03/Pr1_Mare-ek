@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\bin\Debug\net10.0\Oprava chyby z pole1.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\bin\Debug\net10.0\Oprava chyby z pole1.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\bin\Debug\net10.0\Oprava chyby z pole1.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\bin\Debug\net10.0\Oprava chyby z pole1.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\bin\Debug\net10.0\Oprava chyby z pole1.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\refint\Oprava chyby z pole1.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\Oprava chyby z pole1.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\1.A\Pr1_Mare-ek\Metody\Oprava chyby z pole1\Oprava chyby z pole1\obj\Debug\net10.0\ref\Oprava chyby z pole1.dll
