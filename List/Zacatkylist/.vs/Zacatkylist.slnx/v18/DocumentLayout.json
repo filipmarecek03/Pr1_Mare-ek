@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive - DELTA - S\u0160IE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\List\\Zacatkylist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3114E8D3-BEA7-B5F1-E3C0-6A7E9D02D9B4}|Zacatkylist\\Zacatkylist.csproj|c:\\users\\pc\\onedrive - delta - s\u0161ie, s.r.o\\plocha\\deltaahh\\programko\\github\\list\\zacatkylist\\zacatkylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3114E8D3-BEA7-B5F1-E3C0-6A7E9D02D9B4}|Zacatkylist\\Zacatkylist.csproj|solutionrelative:zacatkylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - DELTA - S\u0160IE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\List\\Zacatkylist\\Zacatkylist\\Program.cs",
+              "RelativeDocumentMoniker": "Zacatkylist\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - DELTA - S\u0160IE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\List\\Zacatkylist\\Zacatkylist\\Program.cs",
+              "RelativeToolTip": "Zacatkylist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:03:42.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\bin\Debug\net10.0\Zacatkylist.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\bin\Debug\net10.0\Zacatkylist.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\bin\Debug\net10.0\Zacatkylist.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\bin\Debug\net10.0\Zacatkylist.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\bin\Debug\net10.0\Zacatkylist.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\refint\Zacatkylist.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\Zacatkylist.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Zacatkylist\Zacatkylist\obj\Debug\net10.0\ref\Zacatkylist.dll

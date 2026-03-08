@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\bin\Debug\net10.0\Florbal-shop.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\bin\Debug\net10.0\Florbal-shop.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\bin\Debug\net10.0\Florbal-shop.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\bin\Debug\net10.0\Florbal-shop.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\bin\Debug\net10.0\Florbal-shop.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\refint\Florbal-shop.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\Florbal-shop.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\Shop\Florbal-shop\Florbal-shop\obj\Debug\net10.0\ref\Florbal-shop.dll

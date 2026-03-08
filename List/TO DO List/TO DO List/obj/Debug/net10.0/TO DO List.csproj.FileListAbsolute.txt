@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\bin\Debug\net10.0\TO DO List.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\bin\Debug\net10.0\TO DO List.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\bin\Debug\net10.0\TO DO List.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\bin\Debug\net10.0\TO DO List.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\bin\Debug\net10.0\TO DO List.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\refint\TO DO List.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\TO DO List.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\List\TO DO List\TO DO List\obj\Debug\net10.0\ref\TO DO List.dll
