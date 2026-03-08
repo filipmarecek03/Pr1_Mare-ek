@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\bin\Debug\net10.0\Kdo příjde II.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\bin\Debug\net10.0\Kdo příjde II.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\bin\Debug\net10.0\Kdo příjde II.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\bin\Debug\net10.0\Kdo příjde II.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\bin\Debug\net10.0\Kdo příjde II.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\refint\Kdo příjde II.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\Kdo příjde II.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kdo příjde II\Kdo příjde II\obj\Debug\net10.0\ref\Kdo příjde II.dll

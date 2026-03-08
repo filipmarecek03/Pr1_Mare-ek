@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\bin\Debug\net10.0\Opiš stokrát.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\bin\Debug\net10.0\Opiš stokrát.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\bin\Debug\net10.0\Opiš stokrát.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\bin\Debug\net10.0\Opiš stokrát.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\bin\Debug\net10.0\Opiš stokrát.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\refint\Opiš stokrát.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\Opiš stokrát.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Opiš stokrát\Opiš stokrát\obj\Debug\net10.0\ref\Opiš stokrát.dll

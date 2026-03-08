@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\bin\Debug\net10.0\Kamarádi.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\bin\Debug\net10.0\Kamarádi.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\bin\Debug\net10.0\Kamarádi.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\bin\Debug\net10.0\Kamarádi.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\bin\Debug\net10.0\Kamarádi.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\refint\Kamarádi.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\Kamarádi.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Kamarádi\Kamarádi\obj\Debug\net10.0\ref\Kamarádi.dll

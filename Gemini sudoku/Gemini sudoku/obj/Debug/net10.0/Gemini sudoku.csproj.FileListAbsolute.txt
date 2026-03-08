@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\bin\Debug\net10.0\Gemini sudoku.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\bin\Debug\net10.0\Gemini sudoku.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\bin\Debug\net10.0\Gemini sudoku.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\bin\Debug\net10.0\Gemini sudoku.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\bin\Debug\net10.0\Gemini sudoku.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\refint\Gemini sudoku.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\Gemini sudoku.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Gemini sudoku\Gemini sudoku\obj\Debug\net10.0\ref\Gemini sudoku.dll

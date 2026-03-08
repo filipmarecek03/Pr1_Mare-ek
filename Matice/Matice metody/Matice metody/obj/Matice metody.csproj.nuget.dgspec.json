@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj": {}
+    "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj": {
+    "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj",
         "projectName": "Matice metody",
-        "projectPath": "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj",
+        "projectPath": "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\Matice metody.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\1.A\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\obj\\",
+        "outputPath": "C:\\Users\\PC\\OneDrive - DELTA - SŠIE, s.r.o\\Plocha\\DELTAahh\\Programko\\GitHub\\Pr1_Mare-ek\\Matice\\Matice metody\\Matice metody\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

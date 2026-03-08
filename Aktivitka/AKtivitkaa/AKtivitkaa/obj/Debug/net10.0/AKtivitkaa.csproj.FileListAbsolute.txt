@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\bin\Debug\net10.0\AKtivitkaa.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\bin\Debug\net10.0\AKtivitkaa.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\bin\Debug\net10.0\AKtivitkaa.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\bin\Debug\net10.0\AKtivitkaa.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\bin\Debug\net10.0\AKtivitkaa.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\refint\AKtivitkaa.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\AKtivitkaa.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Aktivitka\AKtivitkaa\AKtivitkaa\obj\Debug\net10.0\ref\AKtivitkaa.dll

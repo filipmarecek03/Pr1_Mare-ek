@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\bin\Debug\net10.0\Obvod kruhu.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\bin\Debug\net10.0\Obvod kruhu.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\bin\Debug\net10.0\Obvod kruhu.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\bin\Debug\net10.0\Obvod kruhu.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\bin\Debug\net10.0\Obvod kruhu.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\refint\Obvod kruhu.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\Obvod kruhu.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\Obvod kruhu\Obvod kruhu\obj\Debug\net10.0\ref\Obvod kruhu.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\bin\Debug\net10.0\Největší číslo.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\bin\Debug\net10.0\Největší číslo.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\bin\Debug\net10.0\Největší číslo.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\bin\Debug\net10.0\Největší číslo.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\bin\Debug\net10.0\Největší číslo.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\refint\Největší číslo.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\Největší číslo.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Největší číslo\Největší číslo\obj\Debug\net10.0\ref\Největší číslo.dll

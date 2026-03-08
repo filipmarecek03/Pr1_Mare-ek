@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\bin\Debug\net10.0\Je v normě.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\bin\Debug\net10.0\Je v normě.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\bin\Debug\net10.0\Je v normě.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\bin\Debug\net10.0\Je v normě.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\bin\Debug\net10.0\Je v normě.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\refint\Je v normě.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\Je v normě.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\--HOTOVO--\Je v normě\Je v normě\obj\Debug\net10.0\ref\Je v normě.dll

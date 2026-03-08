@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\bin\Debug\net10.0\POčet celých čísel.exe
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\bin\Debug\net10.0\POčet celých čísel.deps.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\bin\Debug\net10.0\POčet celých čísel.runtimeconfig.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\bin\Debug\net10.0\POčet celých čísel.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\bin\Debug\net10.0\POčet celých čísel.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.AssemblyInfo.cs
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.sourcelink.json
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\refint\POčet celých čísel.dll
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.pdb
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\POčet celých čísel.genruntimeconfig.cache
+C:\Users\PC\OneDrive - DELTA - SŠIE, s.r.o\Plocha\DELTAahh\Programko\GitHub\Pr1_Mare-ek\Metody_cviceni\POčet celých čísel\POčet celých čísel\obj\Debug\net10.0\ref\POčet celých čísel.dll
